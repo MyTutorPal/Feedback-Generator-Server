@@ -7,7 +7,7 @@ For run the application follow the following steps.
 1. Install Dependencies.
 
 ```sh 
-npm run insatall
+npm install
 ```
 
 2.  Run the server using development environment. Go to the root `server` and run the following. 
@@ -33,6 +33,6 @@ Following are the list of technoogies we have incorparated so far.
 - [x] Create seperate workflows for dev and prod
 - [x] Add Google Auth
 - [x] Init Front end
-- [] Design the client
-- [] Add functionality
-- [] Add payment 
+- [ ] Design the client
+- [ ] Add functionality
+- [ ] Add payment 
